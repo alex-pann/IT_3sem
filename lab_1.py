@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 print("Введите путь до файлов с данными: ") 
 path = str(input())
 
@@ -27,10 +26,3 @@ for fl in files:
     plt.title(fl)
     plt.axis('scaled')
     plt.show()
-
-
-   
-
-
-
-
