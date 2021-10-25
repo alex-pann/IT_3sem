@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-print("Введите путь до файлов с данными: ") 
+print("Введите путь до файла с данными: ") 
 path = str(input())
 
 # cчитывание данных из файла
