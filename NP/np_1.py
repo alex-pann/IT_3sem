@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-print("Введите путь до файлов с данными: ") 
+print("Введите путь до исходных изображений: ") 
 path = str(input())
 
 for i in range (1, 4):
